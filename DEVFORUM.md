@@ -90,7 +90,7 @@ DisableLimit: (self: Draggable) -> ()
 
 <details><summary><b id="enable" style="font-size: 1.25rem">Enable</b></summary>
 
-This method sets the Disabled property to false; if the [Disabled](#disabled) method is called while the draggable is active, the dragging continues. **This is true by default.**
+This method sets the Disabled property to false; if the [Disable](#disable) method is called while the draggable is active, the dragging continues. **This is true by default.**
 
 </details>
 

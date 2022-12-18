@@ -1,0 +1,11 @@
+{
+	"name": "DraggableSUI",
+	"tree": {
+		"$className": "DataModel",
+		"ReplicatedStorage": {
+			"DraggableSUI": {
+				"$path": "DraggableSUI"
+			}
+		}
+	}
+}
