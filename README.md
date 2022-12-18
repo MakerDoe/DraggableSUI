@@ -259,21 +259,6 @@ SetTweenInfo: (self: Draggable, tweenInfo: TweenInfo) -> ()
 
 -   This data type is used in the new [constructor](#constructors) for the hidden `_debugMode` parameter.
 
-["guiobject"]: https://create.roblox.com/docs/reference/engine/classes/GuiObject
-["surfacegui"]: https://create.roblox.com/docs/reference/engine/classes/SurfaceGui
-["normalid"]: https://create.roblox.com/docs/reference/engine/enums/NormalId
-["connection"]: https://create.roblox.com/docs/reference/engine/datatypes/RBXScriptConnection
-["boolean"]: https://create.roblox.com/docs/scripting/luau/booleans
-["number"]: https://create.roblox.com/docs/scripting/luau/numbers
-["vector2"]: https://create.roblox.com/docs/reference/engine/datatypes/Vector2
-["{}"]: https://create.roblox.com/docs/scripting/luau/tables
-["tweeninfo"]: https://create.roblox.com/docs/reference/engine/datatypes/TweenInfo
-["color3"]: https://create.roblox.com/docs/reference/engine/datatypes/Color3
-["enum"]: https://create.roblox.com/docs/reference/engine/datatypes/Enum
-["material"]: https://create.roblox.com/docs/reference/engine/enums/Material
-["parttype"]: https://create.roblox.com/docs/reference/engine/enums/PartType
-["vector3"]: https://create.roblox.com/docs/reference/engine/datatypes/Vector3
-
 ## Custom Enum
 
 <b id="dragat" style="font-size: 1.25rem">DragAt</b>
@@ -289,3 +274,18 @@ SetTweenInfo: (self: Draggable, tweenInfo: TweenInfo) -> ()
 |  TopCenter   |   1   |  Drag at at the top center of a GuiObject.   |
 |   TopLeft    |   0   |   Drag at at the top left of a GuiObject.    |
 |   TopRight   |   2   |   Drag at at the top right of a GuiObject.   |
+
+["guiobject"]: https://create.roblox.com/docs/reference/engine/classes/GuiObject
+["surfacegui"]: https://create.roblox.com/docs/reference/engine/classes/SurfaceGui
+["normalid"]: https://create.roblox.com/docs/reference/engine/enums/NormalId
+["connection"]: https://create.roblox.com/docs/reference/engine/datatypes/RBXScriptConnection
+["boolean"]: https://create.roblox.com/docs/scripting/luau/booleans
+["number"]: https://create.roblox.com/docs/scripting/luau/numbers
+["vector2"]: https://create.roblox.com/docs/reference/engine/datatypes/Vector2
+["{}"]: https://create.roblox.com/docs/scripting/luau/tables
+["tweeninfo"]: https://create.roblox.com/docs/reference/engine/datatypes/TweenInfo
+["color3"]: https://create.roblox.com/docs/reference/engine/datatypes/Color3
+["enum"]: https://create.roblox.com/docs/reference/engine/datatypes/Enum
+["material"]: https://create.roblox.com/docs/reference/engine/enums/Material
+["parttype"]: https://create.roblox.com/docs/reference/engine/enums/PartType
+["vector3"]: https://create.roblox.com/docs/reference/engine/datatypes/Vector3
