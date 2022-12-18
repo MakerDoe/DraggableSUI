@@ -1,6 +1,6 @@
 # Draggable For SurfaceGui
 
-The draggable property is still usable, but it is deprecated. Thus, I created this module; **the module allows you to make a [GuiObject]["guiobject"] draggable for _[SurfaceGui]["surfacegui"]_ with any [NormalId]["normalid"].**
+The draggable property is still usable, but it is deprecated. Thus, I created this [module](https://www.roblox.com/library/11857493050/DraggableSUI); **the module allows you to make a [GuiObject]["guiobject"] draggable for _[SurfaceGui]["surfacegui"]_ with any [NormalId]["normalid"].**
 
 ## Preview
 
